@@ -59,5 +59,7 @@ const countUniqueNumber = (arr) => {
     throw new Error("Array is Empty !");
   }
 };
+
+// Time complexity = o( n )
 const res = countUniqueNumber(arr);
 console.log(res);

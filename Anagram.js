@@ -7,7 +7,7 @@
 // 2. Count the character or element in first string ( {h:1, e:1, l:2, o:1} )
 // 3. Now compare with second string. If found then reduce the count ( {h:0, e:0, l:0, o:0} )
 // 4. If final count is zero then the strings are anagram otherwise not an anagram
-
+// 5. Time complexcity = o( n )
 const string1 = "hello";
 const string2 = "llheo";
 

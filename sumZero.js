@@ -41,5 +41,7 @@ const getPair = (arr) => {
   }
 };
 
+// Time Complexcity = o( n )
+
 const res = getPair(arr);
 console.log("Two Pointer", res);

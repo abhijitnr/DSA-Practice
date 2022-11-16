@@ -7,3 +7,4 @@
 - [Find unique number from an array](UniqueNumber.js)
 - [Largest Sum of consucative digits](LargestSum.js)
 - [Bubble Sort](BubbleSort.js)
+- [Binary Search](BinarySearch.js)

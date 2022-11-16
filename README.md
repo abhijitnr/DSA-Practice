@@ -8,3 +8,4 @@
 - [Largest Sum of consucative digits](LargestSum.js)
 - [Bubble Sort](BubbleSort.js)
 - [Binary Search](BinarySearch.js)
+- [Check Sqaure in anothe array](CheckSquare.js)

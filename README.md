@@ -9,3 +9,4 @@
 - [Bubble Sort](BubbleSort.js)
 - [Binary Search](BinarySearch.js)
 - [Check Sqaure in another array](CheckSquare.js)
+- [Marge Two sorted Array](MargeTwoArray.js)

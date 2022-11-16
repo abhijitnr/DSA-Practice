@@ -40,3 +40,5 @@ const binarySearchAlgo = (arr, num) => {
 
 let ans = binarySearchAlgo(arr, number);
 console.log(ans);
+
+// Time complexity = o( log(n) )

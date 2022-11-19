@@ -11,3 +11,4 @@
 - [Check Sqaure in another array](CheckSquare.js)
 - [Marge Two sorted Array](MargeTwoArray.js)
 - [Recursion demo](Recursion.js)
+- [Merge Sort](MergeSort.js)
